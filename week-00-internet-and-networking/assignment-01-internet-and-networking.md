@@ -34,8 +34,7 @@ Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
-
+I learned that a good prompt should clearly state the topic, my level of knowledge, and the type of explanation I want. I also learned that adding specific requirements, such as using a real-life example, avoiding technical jargon, and keeping the answer concise, which this can help ChatGPT provide a more useful response.
 ---
 
 # 🌐 Task 2: Internet and Networking
@@ -59,7 +58,7 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
+When a user visits EpicReads from anywhere in the world, their request is broken into small pieces of data called packets. This is known as packet switching, where packets travel across different networks and are reassembled at their destination. The website hosted in Finland has an IP address, which acts like its digital address so the user's device can locate the server. TCP/IP provides the basic rules for delivering these packets reliably across the Internet. Once the request reaches the EpicReads server, HTTP/HTTPS is used to communicate between the user's web browser and the website. HTTPS is the secure version of HTTP, encrypting the data exchanged between the user and EpicReads. Together, these technologies allow users around the world to securely access the bookstore's website.
 
 ---
 
@@ -102,18 +101,18 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+* Next.js (React framework for server rendering and routing)
+* Tailwind CSS (Frontend styling)
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+* Node.js (API Development)
+* MySQL (Database Management)
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
+* MySQL
+* Sequelize
 
 ---
 
@@ -142,7 +141,8 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+1. DNS translates human-readable domain names into IP addresses, making websites easier to access without remembering numbers.
+2. An A record type should be used, because it maps a domain name directly to an IPv4 address. Therefore, the A record would point epicreads.com to 52.172.142.222.
 
 ---
 
@@ -218,7 +218,7 @@ Add the following credit note at the end of your post:
 Paste your LinkedIn post URL here:
 
 ```text
-Add your URL here...
+https://lnkd.in/p/epR8egzM
 ```
 
 ---
@@ -227,7 +227,28 @@ Add your URL here...
 
 Paste the full text of your LinkedIn post here:
 
-Add your post content here...
+🚀 Week 0 — Internet & Networking | DevOps Micro Internship
+
+I started my DevOps learning journey by building a foundation in Internet and networking concepts.
+
+🤖 ChatGPT
+Learned how to write clearer prompts by specifying the topic, context, knowledge level, and desired output.
+
+🌐 Internet & Networking
+Learned how packet switching, IP addresses, TCP/IP and HTTP/HTTPS work together when accessing a website.
+
+🏗️ App Architecture
+Learned the difference between two-tier and three-tier architectures and the roles of the frontend, backend and database.
+
+🌍 DNS
+Learned how DNS translates domain names into IP addresses and how A records map domains to IPv4 addresses.
+
+💻 VS Code Setup
+Set up my development environment and practised using the integrated terminal.
+
+This week gave me a better understanding of the fundamentals behind how applications communicate over the Internet and how these concepts connect to DevOps.
+
+P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra. My graded progress is public: https://dmi.pravinmishra.com/s/RyanCJC.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=cohort3
 
 ---
 
@@ -235,20 +256,19 @@ Add your post content here...
 
 ### What did you find easy?
 
-Add your answer here...
+I found it relatively easy to understand basic networking concepts when they were explained using real-life examples. I was also comfortable setting up VS Code and using the integrated terminal.
 
 ---
 
 ### What was difficult?
 
-Add your answer here...
+Understanding how different networking concepts connect together was more challenging, especially IP addresses, ports, DNS, protocols, and how frontend and backend applications communicate.
 
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
-
+I will strengthen my understanding of application networking, and how applications are deployed. I also want to gain more hands-on experience instead of only learning the concepts theoretically.
 ---
 
 ## 📌 About DMI & CloudAdvisory

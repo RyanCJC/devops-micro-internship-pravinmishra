@@ -14,11 +14,11 @@
 
 | | |
 |---|---|
-| **Name** | Pravin Mishra |
-| **LinkedIn** | [pravin-mishra-aws-trainer](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) |
-| **Location** | Helsinki, Finland |
-| **Background** | Cloud, DevOps & AI Consultant |
-| **Goal** | Train 10,000+ DevOps professionals |
+| **Name** | Jing Chen |
+| **LinkedIn** | [jing-chen](https://www.linkedin.com/in/jing-chen-431a04435/) |
+| **Location** | Kuala Lumpur, Malaysia |
+| **Background** | Student from APU studying Computer Science (Data Analytics) |
+| **Goal** | A Data and AI professional |
 
 ---
 
