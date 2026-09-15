@@ -33,7 +33,7 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+I believe that having strong academic results does not automatically mean someone is well prepared for a professional career. Academic performance can show that a person is capable of learning, but it does not always prove that they can solve ambiguous problems, build things independently, communicate with others, or deliver something that works in the real world.
 
 ---
 
@@ -55,11 +55,11 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+Consistent practice produces better results than relying on motivation.
 
 ### Evidence from my life
 
-Add your answer here...
+During university and my technical learning, I noticed that I made more progress when I worked consistently rather than waiting until I felt motivated. Breaking larger tasks into smaller sessions made difficult topics such as machine learning, networking, cloud, and DevOps easier to understand. I also found that regular practice helped me retain concepts better than trying to learn everything shortly before a deadline.
 
 ---
 
@@ -67,11 +67,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Building and applying knowledge exposes gaps that theoretical learning alone does not reveal.
 
 ### Evidence from my life
 
-Add your answer here...
+I have studied many technical concepts through university courses, but working on projects showed me that understanding a concept theoretically is different from implementing it. For example, working with machine learning projects required me to deal with data preparation, model evaluation, APIs, databases, and deployment-related considerations. More recently, learning DevOps concepts has shown me that knowing what Docker or networking is does not necessarily mean I can confidently use them in a real application.
 
 ---
 
@@ -79,12 +79,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Progress becomes easier to evaluate when there is visible evidence of what has been accomplished.
 
 ### Evidence from my life
 
-Add your answer here...
-
+Projects, technical documentation, GitHub repositories, presentations, and internship work gave me concrete evidence of what I could actually do. I also found that explaining a project during interviews exposed areas where my understanding was weaker. This made me realise that simply listing a technology on a resume is not enough; I need to understand how I used it, why I used it, and what I actually contributed.
 ---
 
 # Assignment 3. What does your 2.0 version look like?
@@ -153,7 +152,22 @@ Hashtags:
 
 ## Your Article
 
-Add your answer here...
+Three to seven years from now, Jing Chen had established himself as a reliable technology professional working at the intersection of AI, data, cloud, and software engineering. His career had developed from an entry-level technology role into a position where he was trusted to design, build, and improve production-oriented AI systems rather than only experiment with models.
+
+He had built and shipped several end-to-end projects that demonstrated his ability to move from an idea to a working solution. His portfolio included machine learning applications, AI-powered systems, data platforms, and cloud-based applications. Instead of only presenting model accuracy, his projects demonstrated practical engineering considerations such as APIs, databases, authentication, deployment, monitoring, scalability, and system reliability.
+
+His GitHub had become a clear record of his technical growth. Each major project included documentation explaining the problem, architecture, technology choices, implementation, challenges, and results. He had also published technical articles explaining concepts he learned along the way, particularly around AI engineering, cloud platforms, machine learning, and DevOps. These articles helped him strengthen his understanding because writing forced him to explain technical ideas clearly rather than simply memorising them.
+
+Professionally, he had contributed to projects involving AI and data in real business environments. His earlier experience in technology consulting had given him exposure to cloud infrastructure, AI solutions, dashboards, testing, documentation, and client requirements. He later built on that foundation by developing stronger software engineering and DevOps capabilities. He had worked with containerised applications, CI/CD pipelines, cloud services, APIs, databases, and monitoring tools, allowing him to understand the full lifecycle of an application.
+
+He had also earned relevant industry certifications and continued learning beyond what was required for his job. Rather than collecting certifications without applying them, he used each certification as a structured way to strengthen practical knowledge.
+
+As his experience increased, he had taken ownership of larger technical tasks and eventually led smaller projects or technical initiatives. He became comfortable breaking down ambiguous problems, researching unfamiliar technologies, communicating trade-offs, and delivering working solutions. He was no longer dependent on step-by-step instructions for every task.
+
+Outside of his job, he had contributed to the technology community by sharing knowledge, participating in technical projects, helping other beginners, and maintaining useful public repositories. His career was supported by a portfolio of actual work rather than only academic achievements.
+
+Most importantly, his 2.0 version was not defined by knowing every technology. He had developed the ability to learn quickly, solve problems systematically, communicate clearly, and consistently turn knowledge into working outcomes. His earlier uncertainty about whether he was sufficiently prepared for the industry had been replaced by confidence built through years of actual experience, projects, failures, and continuous improvement.
+
 
 ### Public Link
 
@@ -191,7 +205,7 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+No, I have made mistakes and taken inefficient approaches before, but I do not consider those the same as intentionally behaving dishonestly. I have learned that there is an important difference between working efficiently and deliberately avoiding responsibility. Going forward, I want to prioritise shortcuts that improve efficiency without compromising honesty, quality, or my actual understanding of the work.
 
 ---
 
@@ -217,16 +231,16 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1. Atomic Habits — James Clear
+2. Deep Work — Cal Newport
+3. The 7 Habits of Highly Effective People — Stephen R. Covey
+4. The Psychology of Money — Morgan Housel
+5. So Good They Can't Ignore You — Cal Newport
+6. Mindset — Carol S. Dweck
+7. Essentialism — Greg McKeown
+8. How to Win Friends and Influence People — Dale Carnegie
+9. The Almanack of Naval Ravikant — Eric Jorgenson
+10. The Lean Startup — Eric Ries
 
 ---
 
@@ -255,16 +269,19 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* Learning hours per week
+* Technical skills practised
+* Technical concepts understood and documented
+* Projects completed and shipped
+* GitHub contributions
+* Portfolio projects documented
+* Technical articles or notes published
+* Deep work sessions per week
+* Time spent on social media and other distractions
+* Sleep hours
+* Exercise / physical activity
+* Personal spending
+* Monthly savings
 
 ---
 
@@ -290,7 +307,7 @@ Examples:
 
 Answer:
 
-Add your answer here...
+Yes, I wrote down my current tasks, learning goals, career goals, project ideas, responsibilities, and areas that I need to improve. The purpose was to get these items out of my head and organise them instead of trying to remember everything mentally.
 
 ---
 
@@ -308,7 +325,13 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+Monday: 60–90 minutes of technical learning or DMI work
+Tuesday: 60–90 minutes of hands-on coding/project work
+Wednesday: 60 minutes of DevOps/cloud/networking learning
+Thursday: 60–90 minutes of project implementation
+Friday: Light review, documentation, or career preparation
+Saturday: 2–3 hours of focused DMI/project work
+Sunday: Weekly review, planning, and catch-up
 
 ---
 
@@ -316,11 +339,12 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+Monday–Thursday: 8:00 PM – 9:30 PM
+Saturday: 10:00 AM – 12:00 PM
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+5–6 focused sessions per week
 
 ---
 
@@ -334,7 +358,12 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+* Keep my phone away from my desk during deep-work sessions.
+* Turn off unnecessary notifications while studying or coding.
+* Avoid opening social media during focus blocks.
+* Work on one main task at a time instead of constantly switching between tasks.
+* Use a short break after completing a focused session instead of taking frequent unplanned breaks.
+* Keep my development environment and learning materials organised before starting a session.
 
 ---
 
@@ -342,28 +371,28 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+My biggest insight was that I learn more effectively when I turn knowledge into something practical. I can understand technical concepts when they are explained, but my understanding becomes much stronger when I have to use those concepts to solve a problem or build something. I also realised that career growth requires more than collecting knowledge. I need to consistently produce evidence of what I can do through projects, documentation, communication, and real-world problem solving.
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+My biggest weakness is sometimes spending too much time thinking about whether I am ready before actually doing the work. I can overthink technical decisions, career choices, or whether my current skills are good enough. This can delay execution. I want to improve by making reasonable decisions, starting earlier, learning through implementation, and adjusting based on actual results rather than trying to make every decision perfect beforehand
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+I will use a weekly execution and review system every Sunday evening. I will identify the three most important outcomes for the coming week, schedule specific focus blocks for them, and review the previous week's progress. At the end of each week, I will record what I completed, what I learned, what blocked me, and what I need to change. This will help me focus on measurable progress instead of relying on motivation.
 
 ### LinkedIn Post
 
 Paste your LinkedIn post link here:
 
-`Add your URL here`
+`https://lnkd.in/p/epR8egzM`
 
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **ADD LINK HERE**  
+- LinkedIn Post URL: https://lnkd.in/p/epR8egzM  
+- Blog / Medium : https://jcblog8037.blogspot.com/2026/09/week-1-success-mindset-mindset-os.html
 
 ---
 
