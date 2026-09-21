@@ -173,7 +173,7 @@ Most importantly, his 2.0 version was not defined by knowing every technology. H
 
 Paste your link here:
 
-`Add your URL here`
+`https://jcblog8037.blogspot.com/2026/09/three-to-seven-years-from-now-jing-chen.html`
 
 ---
 
